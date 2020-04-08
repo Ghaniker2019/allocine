@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/allocine/static/css/main.19a4b5f2.chunk.css",
+    "main.js": "/allocine/static/js/main.8eb5758b.chunk.js",
+    "main.js.map": "/allocine/static/js/main.8eb5758b.chunk.js.map",
+    "runtime-main.js": "/allocine/static/js/runtime-main.fd793dcc.js",
+    "runtime-main.js.map": "/allocine/static/js/runtime-main.fd793dcc.js.map",
+    "static/js/2.a57e71dd.chunk.js": "/allocine/static/js/2.a57e71dd.chunk.js",
+    "static/js/2.a57e71dd.chunk.js.map": "/allocine/static/js/2.a57e71dd.chunk.js.map",
+    "index.html": "/allocine/index.html",
+    "precache-manifest.36b6f8c0d623cb29ed350c8f2fa3352c.js": "/allocine/precache-manifest.36b6f8c0d623cb29ed350c8f2fa3352c.js",
+    "service-worker.js": "/allocine/service-worker.js",
+    "static/css/main.19a4b5f2.chunk.css.map": "/allocine/static/css/main.19a4b5f2.chunk.css.map",
+    "static/js/2.a57e71dd.chunk.js.LICENSE.txt": "/allocine/static/js/2.a57e71dd.chunk.js.LICENSE.txt",
+    "static/media/contagionImg.jpg": "/allocine/static/media/contagionImg.b1e2a629.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fd793dcc.js",
+    "static/js/2.a57e71dd.chunk.js",
+    "static/css/main.19a4b5f2.chunk.css",
+    "static/js/main.8eb5758b.chunk.js"
+  ]
+}
